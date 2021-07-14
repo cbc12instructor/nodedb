@@ -1,0 +1,22 @@
+{
+  "name": "nodedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbc12instructor/nodedb.git"
+  },
+  "author": "erh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbc12instructor/nodedb/issues"
+  },
+  "homepage": "https://github.com/cbc12instructor/nodedb#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
